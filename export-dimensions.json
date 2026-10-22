@@ -1,0 +1,56 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "height": 1765,
+    "size": 1014134
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "height": 2046,
+    "size": 415136
+  },
+  {
+    "name": "desktop-intro",
+    "width": 1440,
+    "height": 900,
+    "size": 1655876
+  },
+  {
+    "name": "mobile-intro",
+    "width": 390,
+    "height": 846,
+    "size": 420194
+  },
+  {
+    "name": "components-and-states",
+    "width": 1440,
+    "height": 1040,
+    "size": 76693
+  },
+  {
+    "name": "tablet-storyboard",
+    "width": 1440,
+    "height": 620,
+    "size": 57895
+  },
+  {
+    "name": "transitions-map",
+    "width": 1440,
+    "height": 1038,
+    "size": 145178
+  },
+  {
+    "name": "desktop-1024",
+    "width": 1024,
+    "height": 1622,
+    "size": 719735
+  },
+  {
+    "name": "tablet-768",
+    "width": 768,
+    "height": 1834,
+    "size": 651156
+  }
+]

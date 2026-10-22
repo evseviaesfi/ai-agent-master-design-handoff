@@ -1,0 +1,178 @@
+{
+  "README.md": {
+    "sha256": "8f76868026b37d2d5ce9aa3d3c553c100db387d681da261518f11d30ae669595",
+    "bytes": 6567
+  },
+  "assets/favicon-32.png": {
+    "sha256": "0c5d0157ca5c85973cda42120c6374fd246a9bd71e4e97c34f300cff526ebfe1",
+    "bytes": 2263
+  },
+  "assets/header-symbol.png": {
+    "sha256": "6b871f942ad5b6571f6e60913aee7394ff909e69c53606efc480b260bcf8915c",
+    "bytes": 17362
+  },
+  "assets/hero-emblem.webp": {
+    "sha256": "f15eb830b61986c389bb9ef6d4fc75919dc86884014decc2fb8e3cb42887df44",
+    "bytes": 328298
+  },
+  "assets/manhattan-mo-eid.jpg": {
+    "sha256": "044bd89aec5b8b503148fc852fd3c763f76884ab3c4455f00482d0b168cb5a29",
+    "bytes": 708040
+  },
+  "assets/room-graphite-alpha.png": {
+    "sha256": "a09c394f8829c0c9b439efea119237601fa0f051e705228be2c191b49d66021f",
+    "bytes": 1842584
+  },
+  "fonts-and-licenses/FONT_METADATA.json": {
+    "sha256": "783e0ef78cf5e90393d2664a2df8a0eb0306e9eb3555ee5ceb79ae9685a87896",
+    "bytes": 352
+  },
+  "fonts-and-licenses/Montserrat-Variable.ttf": {
+    "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7",
+    "bytes": 744936
+  },
+  "fonts-and-licenses/OFL.txt": {
+    "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e",
+    "bytes": 4400
+  },
+  "fonts-and-licenses/SOURCES.md": {
+    "sha256": "f276e9e57c6e54b4398f4ed45bf39703b470f16ec01fc435d50a40cce7dd9452",
+    "bytes": 2759
+  },
+  "index.html": {
+    "sha256": "f13404ed051199183e972e825fd07c44021f6e885a740b7ce38778f566245077",
+    "bytes": 4531
+  },
+  "previews/components-and-states.png": {
+    "sha256": "035c18772cb68bf8b2f68ae4964bf09d565caa4cdab67ff184b50934b0fe9684",
+    "bytes": 76693
+  },
+  "previews/desktop-1024.png": {
+    "sha256": "b54d08c3d083dacfcc8f12ee4d896a87d2d20049d8e4a0ebc7fb224eebb63835",
+    "bytes": 719735
+  },
+  "previews/desktop-intro.png": {
+    "sha256": "15fb90111cf19634f141bab6ea7ffa2d49de00f93aa1292e97dbb28ca1e04093",
+    "bytes": 1655876
+  },
+  "previews/desktop.png": {
+    "sha256": "b6ccb3d862df1ac8982f7817ad0d32e0f0c8a05a6bf67347ae82389e1f53488f",
+    "bytes": 1029482
+  },
+  "previews/mobile-intro.png": {
+    "sha256": "3a7404cb5897079054fa32ae2bc3a39950b61cb6b831ff86ba2c561999477901",
+    "bytes": 420194
+  },
+  "previews/mobile.png": {
+    "sha256": "d804e99a82a687322f2af3a9f2b0c60207fc3ca7553d1096dc93ce52b59282f9",
+    "bytes": 424103
+  },
+  "previews/tablet-768.png": {
+    "sha256": "b4d1f896b0394467eb06e7ce294a1f390009a59da320a87b5f17631b09784000",
+    "bytes": 651156
+  },
+  "previews/tablet-storyboard.png": {
+    "sha256": "e1a300d4b754de1305815f068f57c94b818a183a7365f88d80d5ad67f87a1161",
+    "bytes": 57895
+  },
+  "previews/transitions-map.png": {
+    "sha256": "166a33444644ae2aaa38437367fa438bf05d7c3fa4aa60338a2ab334383aabbc",
+    "bytes": 145178
+  },
+  "prototype/calibration.json": {
+    "sha256": "b05f43247f9bdb2d38d6a4da0279706bb3345689553cfc33c94822b11e665713",
+    "bytes": 1212
+  },
+  "prototype/index.html": {
+    "sha256": "f8d69aed8ad1bdd0e89d462ac32c960985c94a085126f498374de2fb55f20ad4",
+    "bytes": 5473
+  },
+  "prototype/motion.js": {
+    "sha256": "d75253358c7608f8ebac6ae8a10e8d50d3ae0edf2c74223b8d4c946d58b2fe0d",
+    "bytes": 10872
+  },
+  "prototype/review.html": {
+    "sha256": "0a70f1be38ee860e70bbd547089d345536c43cbb197298c565b2ec2ceefe611e",
+    "bytes": 3857
+  },
+  "prototype/style.css": {
+    "sha256": "00ec002276ffda9f337ba5db70784d69771f93fea7cc4288ddb39cead303ae68",
+    "bytes": 16330
+  },
+  "qa/CONTENT_PAGE.json": {
+    "sha256": "663e8b60138be30d6b4d3f1d1da2366ea49a9340a3ff0de6dc41b5d83ff1ff59",
+    "bytes": 1052
+  },
+  "qa/CONTENT_PAGE_EN.txt": {
+    "sha256": "af18bbd1eca08c0ea146991cce7452f9814cb4372620ac9841b365921a54aa9e",
+    "bytes": 865
+  },
+  "qa/ENGLISH_QA.md": {
+    "sha256": "954e46fc4a783e93c90344546462ef52e5c1b73a7c9ef76a95e340144cdd4cca",
+    "bytes": 1976
+  },
+  "qa/QA.md": {
+    "sha256": "4c15c1256ef9ab23dc7b31df5c3da8d69c2fd0794e0db1c88a4327929af550e2",
+    "bytes": 3363
+  },
+  "qa/ROUTES.csv": {
+    "sha256": "7c14e7776aa43de0b90e359efd89746a29cc1254b76aba01ffe96f064e058299",
+    "bytes": 311
+  },
+  "qa/desktop-inspection.png": {
+    "sha256": "cc34eb016135222579b4294df9b28029527f3de12514e1658654b42d6b1ad9be",
+    "bytes": 552705
+  },
+  "qa/export-dimensions.json": {
+    "sha256": "69e979510a1b8e2167225c02b03e934433cd003eeab927bd96b1f916e1edcd7f",
+    "bytes": 856
+  },
+  "qa/intro-inspection.png": {
+    "sha256": "842c9b70845de3169ecc8fbd6c1af79e7fa22dc482728049df3cccbd67e663ed",
+    "bytes": 1028603
+  },
+  "qa/package-check.json": {
+    "sha256": "622f6459909459dcb33a7b42ec6c2c479e30d06838de42fbe3209bd7db08129d",
+    "bytes": 1612
+  },
+  "qa/source-build.json": {
+    "sha256": "1425a1726c6ac6705c7b515cbdb276c0b9e9a7401f9169ba18a9fd99128f966d",
+    "bytes": 394
+  },
+  "qa/states-inspection.png": {
+    "sha256": "37467edb32c71c210cabed9baa818a1c8e940841668306e687497cfc09eb7d98",
+    "bytes": 125296
+  },
+  "responsive-and-actions.md": {
+    "sha256": "ab65059e627cdd58427a235cf1a52f8196daf40ef67d87070d1bf59e2a7be72c",
+    "bytes": 7536
+  },
+  "sources/components-and-states.svg": {
+    "sha256": "222d5e61ede619c5bcf32e6dc4f89b8ef68bafd2fcc6ccc3e5ee05aec606a94b",
+    "bytes": 1001555
+  },
+  "sources/desktop-intro.svg": {
+    "sha256": "18955759ead080cc0908157d7e6617db64d42ef3b9054cd534e6980fd58b4a2b",
+    "bytes": 4863258
+  },
+  "sources/desktop.svg": {
+    "sha256": "216b359e3b25b12d65af542cfb5cec34343488ab5a5f88bdcbcd759910291003",
+    "bytes": 4880092
+  },
+  "sources/mobile-intro.svg": {
+    "sha256": "581a1932938734e4eee5a62e68e9ba162d576dc21ccd7a9839185ec463f08af7",
+    "bytes": 4862482
+  },
+  "sources/mobile.svg": {
+    "sha256": "75f1dad0ec9c966d08d681144d76bde81c6dd2065a493d8e0e3b63de2d752f84",
+    "bytes": 4880914
+  },
+  "sources/tablet-storyboard.svg": {
+    "sha256": "abd8840eb8c694271115bb81a4c1781a1400bb8739a986bc3c0419ffb500399e",
+    "bytes": 1007146
+  },
+  "sources/transitions-map.svg": {
+    "sha256": "edcc3bad950590ada7375c4c314667ab9249562ab5f3f33f07399682d41278b7",
+    "bytes": 1001816
+  }
+}

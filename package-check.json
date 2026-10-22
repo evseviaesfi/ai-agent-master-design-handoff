@@ -1,0 +1,85 @@
+{
+  "native_sources": [
+    {
+      "file": "components-and-states.svg",
+      "text_objects": 34,
+      "named_layers": 2,
+      "result": "passed"
+    },
+    {
+      "file": "desktop-intro.svg",
+      "text_objects": 5,
+      "named_layers": 9,
+      "result": "passed"
+    },
+    {
+      "file": "desktop.svg",
+      "text_objects": 37,
+      "named_layers": 12,
+      "result": "passed"
+    },
+    {
+      "file": "mobile-intro.svg",
+      "text_objects": 4,
+      "named_layers": 8,
+      "result": "passed"
+    },
+    {
+      "file": "mobile.svg",
+      "text_objects": 43,
+      "named_layers": 12,
+      "result": "passed"
+    },
+    {
+      "file": "tablet-storyboard.svg",
+      "text_objects": 39,
+      "named_layers": 2,
+      "result": "passed"
+    },
+    {
+      "file": "transitions-map.svg",
+      "text_objects": 40,
+      "named_layers": 2,
+      "result": "passed"
+    }
+  ],
+  "prototype_content": "3 original paragraphs and tagline exact",
+  "cta_urls_and_message": "exact",
+  "contacts": "exact",
+  "local_dependencies": "present",
+  "logo": "original bytes exact",
+  "photo": "source hash exact",
+  "embedded_foreground": "current asset bytes exact",
+  "language_scan": "passed",
+  "previews": {
+    "desktop": [
+      1440,
+      1765
+    ],
+    "mobile": [
+      390,
+      2074
+    ],
+    "desktop-intro": [
+      1440,
+      900
+    ],
+    "mobile-intro": [
+      390,
+      846
+    ],
+    "components-and-states": [
+      1440,
+      1040
+    ],
+    "tablet-storyboard": [
+      1440,
+      620
+    ],
+    "transitions-map": [
+      1440,
+      1038
+    ]
+  },
+  "result": "passed"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "file": "desktop.svg",
+    "width": 1440,
+    "height": 1765,
+    "text_layers": 37
+  },
+  {
+    "file": "mobile.svg",
+    "width": 390,
+    "height": 2074,
+    "text_layers": 43
+  },
+  {
+    "file": "desktop-intro.svg",
+    "width": 1440,
+    "height": 900,
+    "text_layers": 5
+  },
+  {
+    "file": "mobile-intro.svg",
+    "width": 390,
+    "height": 846,
+    "text_layers": 4
+  }
+]
